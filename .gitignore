@@ -1,7 +1,0 @@
-*.csv
-*.tsv
-*.txt
-*.xlsx
-.ipynb_checkpoints/
-logs/
-.*
